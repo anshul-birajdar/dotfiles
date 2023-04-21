@@ -1,0 +1,26 @@
+#     _              _           _ 
+#    / \   _ __  ___| |__  _   _| | Anshul Birajdar
+#   / _ \ | '_ \/ __| '_ \| | | | | Tech on YouTube
+#  / ___ \| | | \__ \ | | | |_| | | anshul@
+# /_/   \_\_| |_|___/_| |_|\__,_|_| anshulbirajdar.com
+# ARCH LINUX INSTALL SCRIPT
+echo "This Script gives you a fully fuctional Arch Linux System"
+echo "Ensure that you have a working internet connection. If you are using the commandline install, please ensure that you install"
+echo "a network manager like iwd, connmanctl or networkmanager from the chrooted environment."
+echo "Edit the script and the accompanying progs.csv to match your needs."
+printf "Do not run this as root!\n\n"
+echo "Press enter to install dwm from suckless.org (press enter if you do not know what it means and have an internet connection)."
+echo "Enter the lowercase letter 'd' and press enter to install a customised dwm from ~/.local/src/dwm or Ctrl-C to quit:"
+read a
+if [ -z $a ]; then
+	echo "Installing dwm from suckless.org"
+	mkdir -p $HOME/.local/src
+	cd $HOME/.local/src
+	pacman -S git
+	git clone git://git.suckless.org/dwm.git
+fi
+echo "Updating system...."
+pacman -Syyu
+echo "Installing all necessary packages. "
+pacman -S iwd ssh 
+                                                        
