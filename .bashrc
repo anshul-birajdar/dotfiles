@@ -10,3 +10,4 @@ alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
 alias bat="cat /home/anshul/bat"
+PATH="$PATH:/home/anshul/.local/bin"
