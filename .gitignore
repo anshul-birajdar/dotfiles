@@ -1,0 +1,10 @@
+*
+!.config/**
+!.local/bin/**
+!.local/src/**
+!dox/public/**
+!.newsboat/config
+!.bashrc
+!.bash_profile
+!.LICENSE
+!.gitignore
