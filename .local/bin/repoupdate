@@ -1,2 +1,3 @@
-git add .config/ .local/bin/* .local/src/* dox/public/* .newsboat/config .bashrc .bash_profile LICENSE .rup
+cd $HOME
+git add .config/ .local/bin/* .local/src/* dox/public/* .newsboat/config .bashrc .vimrc .bash_profile LICENSE .rup
 git commit -a -m "autoupdate"
