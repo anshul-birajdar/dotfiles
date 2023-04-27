@@ -1,0 +1,15 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdftex 2023.4.23)  26 APR 2023 13:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\show\hskip
+
+*
+(Please type a command or say `\end')
+*
+! Emergency stop.
+<*> 
+    
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

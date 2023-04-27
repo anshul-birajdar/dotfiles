@@ -1,0 +1,48 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdftex 2023.4.23)  24 APR 2023 12:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**i2.tex
+(./i2.tex
+! Undefined control sequence.
+l.2 \vship
+           1in
+? I\errorcontextlines=100\oops
+! Undefined control sequence.
+<insert>   \errorcontextlines=100\oops
+                                      
+l.2 \vship
+           1in
+? 
+
+Overfull \hbox (30.55557pt too wide) in paragraph at lines 2--4
+[]\tenrm in [] |
+
+\hbox(6.86111+0.0)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\hbox(6.86111+0.0)x469.75499, glue set 187.15553fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\tenbf A
+..\glue 3.83331 plus 1.91473 minus 1.27904
+..\tenbf S
+..\tenbf H
+..etc.
+.etc.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+*
+(Please type a command or say `\end')
+*\end
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on i2.pdf (1 page, 36240 bytes).
+PDF statistics:
+ 20 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

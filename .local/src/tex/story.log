@@ -1,0 +1,124 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdftex 2023.4.23)  24 APR 2023 12:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\hsize=1.5in \tolerance=10000 \raggedright \hbadness=-1 \input story \end
+(/usr/share/texmf-dist/tex/plain/knuth-lib/story.tex
+Loose \hbox (badness 4) in paragraph at lines 7--11
+[]\tenrm Once upon a time, 
+
+\hbox(6.83331+1.94444)x108.405, glue set 0.35085
+.\hbox(0.0+0.0)x20.0
+.\tenrm O
+.\tenrm n
+.\tenrm c
+.\tenrm e
+.etc.
+
+
+Underfull \hbox (badness 230) in paragraph at lines 7--11
+\tenrm in a dis-tant galaxy 
+
+\hbox(6.94444+1.94444)x108.405, glue set 1.3203
+.\tenrm i
+.\tenrm n
+.\glue(\spaceskip) 3.33298
+.\tenrm a
+.\glue(\spaceskip) 3.33298
+.etc.
+
+
+Loose \hbox (badness 15) in paragraph at lines 7--11
+\tenrm called []O^^?o^^Xc, there lived 
+
+\hbox(9.20636+1.94444)x108.405, glue set 0.53001
+.\tenrm c
+.\tenrm a
+.\tenrm l
+.\tenrm l
+.\tenrm e
+.etc.
+
+
+Loose \hbox (badness 0) in paragraph at lines 7--11
+\tenrm a com-puter named R. J. 
+
+\hbox(6.94444+1.94444)x108.405, glue set 0.09947
+.\tenrm a
+.\glue(\spaceskip) 3.33298
+.\tenrm c
+.\tenrm o
+.\tenrm m
+.etc.
+
+
+Loose \hbox (badness 23) in paragraph at lines 12--16
+[]\tenrm Mr. Drofnats---or 
+
+\hbox(6.94444+0.0)x108.405, glue set 0.6147
+.\hbox(0.0+0.0)x20.0
+.\tenrm M
+.\tenrm r
+.\tenrm .
+.\penalty 10000
+.etc.
+
+
+Loose \hbox (badness 3) in paragraph at lines 12--16
+\tenrm ``R. J.,'' as he pre-ferred 
+
+\hbox(6.94444+1.94444)x108.405, glue set 0.30226
+.\tenrm \ (ligature ``)
+.\tenrm R
+.\tenrm .
+.\glue(\spaceskip) 3.33298
+.\tenrm J
+.etc.
+
+
+Loose \hbox (badness 0) in paragraph at lines 12--16
+\tenrm to be called---was hap-pi- 
+
+\hbox(6.94444+1.94444)x108.405, glue set 0.02863
+.\tenrm t
+.\tenrm o
+.\glue(\spaceskip) 3.33298
+.\tenrm b
+.\kern0.27779
+.etc.
+
+
+Loose \hbox (badness 0) in paragraph at lines 12--16
+\tenrm est when he was at work 
+
+\hbox(6.94444+0.0)x108.405, glue set 0.03839
+.\tenrm e
+.\tenrm s
+.\tenrm t
+.\glue(\spaceskip) 3.33298
+.\tenrm w
+.etc.
+
+
+Loose \hbox (badness 67) in paragraph at lines 12--16
+\tenrm type-set-ting beau-ti-ful 
+
+\hbox(6.94444+1.94444)x108.405, glue set 0.87581
+.\tenrm t
+.\kern-0.27779
+.\tenrm y
+.\tenrm p
+.\kern0.27779
+.etc.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])</usr/share/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsl10.pfb>
+Output written on story.pdf (1 page, 36258 bytes).
+PDF statistics:
+ 20 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
