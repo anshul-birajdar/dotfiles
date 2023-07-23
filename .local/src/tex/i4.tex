@@ -1,3 +1,19 @@
+\magnification 2500
+\hsize 200 true mm
 \pdfpagewidth 297 true mm
 \pdfpageheight 210 true mm
-HELLO
+\font\tl=cmbx10 at 15 pt
+\font\ts=cmr10
+\input graphicx.tex %
+\def\title#1{\vfill \eject  {\vskip .1cm} \tl #1 {\vskip .2cm} \ts
+\noindent }
+
+% START YOUR CODE HERE
+
+\title{Intro to Physics}
+{\it Physics is fun!}
+
+\pdfximage width 3 cm {maxwell.jpg}
+\pdfrefximage1  %\pdflastximage % Enter the no of image to be inserted.
+{\bf \centerline{Maxwell is Genius.}}
+\end
